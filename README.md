@@ -1,7 +1,7 @@
 
 /**
  * HIGH-PERFORMANCE SYSTEM MONITOR
- * Demuestra: Programación Asíncrona, Manejo de Memoria y Formateo de Datos.
+ 
  */
 
 const os = require('os');
